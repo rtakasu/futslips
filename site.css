@@ -1,0 +1,62 @@
+.cellimg {
+	height: 90%;
+	margin-left: 1%;
+	margin-top: 1%;
+
+}
+
+.body {
+	background-image: url("file:///Users/rafael/Documents/Web/Static/img/Wembley_Stadium_interior.jpg");
+	background-size: 100%, 100%;
+	background-repeat: no-repeat;
+}
+
+.cell{
+	background-color: white;
+	height: 150px;
+	margin: 10px;
+	
+}
+
+.box {
+	width: 90%;
+	background-color: rgba(242,242,242, 0.5);
+	height: 90%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.futslips {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.block {
+	height: 10px;
+}
+
+.bar {
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	height: 40px;
+	width: 90%;
+	border-style: solid;
+	border-width: 3px;
+	border-color: gray;
+}
+
+.toolbarrow {
+	text-align: center;
+}
+
+.toolbarbutton {
+	border-style: solid;
+	border-width: 1px;
+	height: 25px;
+
+}
+
