@@ -1,0 +1,52 @@
+<html>
+
+<title>FutSlips</title>
+
+<header>
+	<link rel="stylesheet" type="text/css" href="Static/css/site.css">
+	<img src="Static/img/Image005.png" class = "futslips"/>
+	<div class ="block"></div>
+</header>
+
+<body class = "body">
+		
+	<div class = "bar">
+		<table width ="100%">
+			<tr class ="toolbarrow">
+				<td>
+					<a href="file:///Users/rafael/Documents/Web/wagers.html">
+						Link
+					</a>
+				</td>
+				<td>
+					<a href="file:///Users/rafael/Documents/Web/wagers.html">
+						Link
+					</a>
+				</td>
+				<td>
+					<a href="file:///Users/rafael/Documents/Web/wagers.html">
+						Link
+					</a>
+				</td>
+				<td>
+					<a href="file:///Users/rafael/Documents/Web/wagers.html">
+						Link
+					</a>
+				</td>
+				<td>
+					<a href="file:///Users/rafael/Documents/Web/wagers.html">
+						Link
+					</a>
+				</td>
+			</tr>
+
+
+
+		</table>
+	</div>
+
+
+
+
+
+</body>
